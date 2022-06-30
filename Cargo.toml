@@ -1,0 +1,9 @@
+[package]
+name = "system"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+sysinfo = "0.15.9"
+clap = "2.33.3"
